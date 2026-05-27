@@ -39,7 +39,7 @@ const Login = () => {
       {/* LEFT SIDE */}
       <div className="auth-left">
         <div className="overlay">
-          <h1>Shorten URLs Easily 🚀</h1>
+          <h1>FluxURL 🚀</h1>
 
           <p>
             Create smart, fast and secure short links for your business,
