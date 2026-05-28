@@ -331,7 +331,8 @@ Add:
         ![alt text](screenshots/dashboard.png)
 * Generate screenshot
         ![alt text](screenshots/generate.png)
-
+* Architecture Diagram 
+        ![alt text](screenshots/architecture_diagram.png.png)
 ---
 
 This project is a part of a hackathon run by https://katomaran.com
