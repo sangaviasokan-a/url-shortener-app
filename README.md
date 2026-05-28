@@ -324,10 +324,13 @@ https://www.loom.com/looms?show_pin_extension=true
 Add:
 
 * Login page screenshot
+        ![alt text](screenshots/login.png)   
 * Register page screenshot
+        ![alt text](screenshots/register.png)
 * Dashboard screenshot
-* MongoDB entries screenshot
-* Deployment screenshot
+        ![alt text](screenshots/dashboard.png)
+* Generate screenshot
+        ![alt text](screenshots/generate.png)
 
 ---
 
