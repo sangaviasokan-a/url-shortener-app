@@ -28,7 +28,7 @@ const Register = () => {
 
       navigate("/login");
     } catch (error) {
-      alert(error.response.data.message);
+      alert(error.response?.data?.message || "Registration failed");
     }
   };
 
@@ -64,7 +64,8 @@ const Register = () => {
         <button type="submit">Register</button>
 
         <p>
-          Already have an account? <Link to="/login">Login</Link>
+          Already have an account?{" "}
+          <Link to="/login">Login</Link>
         </p>
       </form>
     </div>
