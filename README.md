@@ -314,7 +314,7 @@ GET /:shortId
 Add your Loom or YouTube video link here:
 
 ```txt
-https://your-video-link.com
+https://www.loom.com/looms?show_pin_extension=true
 ```
 
 ---
